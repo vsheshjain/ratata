@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/vsheshjain/ratata)](https://goreportcard.com/report/github.com/vsheshjain/ratata)
+
 # Ratata - Rate Limiter
 
 **Ratata** is a lightweight rate-limiting library implemented in Go, designed to manage the number of requests or actions allowed for users over a given time. It uses the token bucket algorithm to ensure that actions or requests are handled efficiently while respecting a defined limit.
